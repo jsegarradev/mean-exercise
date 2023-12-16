@@ -1,0 +1,14 @@
+# Ignore node_modules directory in the angular folder
+angular/node_modules/
+
+# Ignore .editorconfig file in the angular folder
+angular/.editorconfig
+
+# Ignore package-lock.json file in the angular folder
+angular/package-lock.json
+
+# Ignore package-lock.json file in the node folder
+node/node_modules/
+
+# Ignore package-lock.json file in the node folder
+node/package-lock.json
